@@ -1,0 +1,9 @@
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.AssemblyInfoInputs.cache
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.AssemblyInfo.cs
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\bin\Debug\netcoreapp3.1\bruhh.deps.json
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\bin\Debug\netcoreapp3.1\bruhh.dll
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\bin\Debug\netcoreapp3.1\bruhh.pdb
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.dll
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.pdb
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.csprojAssemblyReference.cache
+C:\Users\Alexander Morales\source\repos\bruhh\bruhh\obj\Debug\netcoreapp3.1\bruhh.csproj.CoreCompileInputs.cache
